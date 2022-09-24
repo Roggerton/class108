@@ -1,0 +1,47 @@
+html{
+    background-color: black
+}
+
+body{
+    color: white;
+    font-family: Trebuchet MS;
+    background-color: black; 
+}
+
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background: black;
+}
+
+.header_div{
+    background: darkgrey;
+    color: white;
+}
+
+.main_div button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: border;
+    letter-spacing: 3px;
+}
+
+.header_div t{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: gray;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: black;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
